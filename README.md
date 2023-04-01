@@ -1,4 +1,4 @@
-# AliceInFairyTale_Standalone
+# Alice in Fairy Tale_Standalone
 
 A sample game for ScenarioFlow. Please [download zip file (for windows)](https://github.com/ItoAkira2023/AliceInFairyTale_Standalone/releases/download/v1.0.0/AliceInFairyTale_Windows.zip) to play.
 
